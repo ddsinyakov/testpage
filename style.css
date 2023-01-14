@@ -1,0 +1,9 @@
+h1 {
+    text-transform: uppercase;
+}
+
+@media(max-width: 320px) {
+    h1 {
+        color: red;
+    }
+}
